@@ -1,0 +1,1 @@
+Scripts for the generation of a difference atlas. Documentation TODO.
